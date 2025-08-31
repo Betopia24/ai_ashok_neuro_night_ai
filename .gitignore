@@ -8,9 +8,9 @@ __pycache__/
 
 # --- IDE / Editor specific files ---
 # Ignore configuration files created by editors like VS Code or PyCharm.
-.vscode/
 .idea/
 
+temp_auto_push.bat
 
 # --- Build & Distribution Artifacts ---
 # Common folders for Python package builds.
@@ -24,3 +24,5 @@ dist/
 *.log
 *.log.*
 *.log.*
+.gitignore
+branch_structure.json
